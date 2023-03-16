@@ -28,7 +28,7 @@ src="https://camo.githubusercontent.com/3c71cd667843b03dec7f3fc08e01b60675050b75
 
 - 🔭 My Other Project [previous-haircut-2492](https://tourmaline-dragon-20cc3b.netlify.app)
 
-- 👨‍💻 All of my projects are available at [https://Kirti180.github.io/](https://kirti180.github.io/)
+- 👨‍💻 All of my projects are available at [https://kirti180.github.io/](https://kirti180.github.io/)
 
 - 📫 How to reach me **kirti182001@gmail.com**
 
