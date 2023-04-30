@@ -38,7 +38,7 @@ src="https://camo.githubusercontent.com/3c71cd667843b03dec7f3fc08e01b60675050b75
 <h3 align="left">Connect with me:</h3>
 <br/>
 <p align="left">
-<a href="https://codepen.io/_1807kirti"   target="blank"><img margin="10%" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kirti180" height="50" width="60" /></a>
+
 <a href="https://www.linkedin.com/in/kirti-shinde/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ShindeKirti" height="50" width="60" /></a>
 <a href="https://codesandbox.io/u/kirti182001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ShindeKirti" height="50" width="60" /></a>
 <a href="https://wa.me/+917517379490" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2044px-WhatsApp.svg.png" alt="ShindeKirti" height="50" width="60" /></a>   
