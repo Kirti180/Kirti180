@@ -21,11 +21,11 @@ src="https://camo.githubusercontent.com/3c71cd667843b03dec7f3fc08e01b60675050b75
 
 - 🌱 I’m currently learning **JavaScript, MongoDB, NodeJS, ExpressJS**
 
-- 🔭 My Other Project [alive-sort-1421](https://charming-syrniki-d4cd88.netlify.app)
+- 🔭 My Other Project [Compass Group](https://charming-syrniki-d4cd88.netlify.app)
 
-- 🔭 My Other Project [crabby-whistle-3208](https://genuine-bavarois-d93c8f.netlify.app)
+- 🔭 My Other Project [Craft Bazzar](https://genuine-bavarois-d93c8f.netlify.app)
 
-- 🔭 My Other Project [previous-haircut-2492](https://tourmaline-dragon-20cc3b.netlify.app)
+- 🔭 My Other Project [Talkies]( https://talkies-lets-connect.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://kirti180.github.io/](https://kirti180.github.io/)
 
