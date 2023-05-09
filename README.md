@@ -43,7 +43,7 @@ src="https://camo.githubusercontent.com/3c71cd667843b03dec7f3fc08e01b60675050b75
 <a href="https://codesandbox.io/u/kirti182001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ShindeKirti" height="50" width="60" /></a>
 <a href="https://wa.me/+917517379490" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2044px-WhatsApp.svg.png" alt="ShindeKirti" height="50" width="60" /></a>   
 <a href="http://instagram.com/_u/kiittu_18/" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2017/02/Instagram-Logo.png" alt="ShindeKirti" height="50" width="80" /></a>
-    <a href="https://mail.google.com/mail/u/0/?fs=1&to=kirti182001@gmail.com&tf=cm" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="ShindeKirti" height="50" width="65" /></a> 
+<a href="https://mail.google.com/mail/u/0/?fs=1&to=kirti182001@gmail.com&tf=cm" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="ShindeKirti" height="50" width="65" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
