@@ -21,7 +21,7 @@ src="https://camo.githubusercontent.com/3c71cd667843b03dec7f3fc08e01b60675050b75
 
 - 🌱 I’m currently learning **JavaScript, MongoDB, NodeJS, ExpressJS**
 
-- 🔭 My Other Project [Compass Group](https://charming-syrniki-d4cd88.netlify.app)
+- 🔭 My Other Project [Compass Group]([https://charming-syrniki-d4cd88.netlify.app](https://647d95a6a098e03c9abfcab5--sprightly-crepe-ffa814.netlify.app/))
 
 - 🔭 My Other Project [Craft Bazzar](https://genuine-bavarois-d93c8f.netlify.app)
 
